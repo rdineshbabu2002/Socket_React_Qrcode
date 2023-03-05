@@ -1,0 +1,22 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+.heading {
+  text-align: center;
+  font-size: 32px;
+}
+.qrcontainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.qrcode {
+  padding: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 200px;
+  width: 200px;
+}
